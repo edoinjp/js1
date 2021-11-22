@@ -13,6 +13,6 @@ console.log(cars.slice(2));
 console.log(cars.slice(4));
 
 // am "kodit" shegvidzlia cxrilis satavedan gavaqrot imdeni elementi ramdenic gvchirdeba
-// aqac ver vxvdebi zustad ratom sheidzleba damchires magalitad teleponis ekranze morgebis dros shegvidzlia gavaqrot tu ar etebva ekranze (albat)
+// aqac ver vxvdebi zustad ratom sheidzleba damchires magalitad teleponis ekranze morgebis dros shegvidzlia gavaqrot tu ar eteva ekranze (albat)
 
 // eduard gurchiani
